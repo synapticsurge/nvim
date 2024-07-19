@@ -21,7 +21,7 @@ return {
    	opts = {
    		ensure_installed = {
    			"lua-language-server", "stylua",
-   			"html-lsp", "css-lsp" , "prettier" , "gopls" , "asm-lsp" , "rust-analyzer" ,"pyright" , "clangd" , "json-lsp" , "zls"
+   			"html-lsp", "css-lsp" , "prettier" , "gopls" ,"pyright" , "clangd" , "zls"
    		},
    	},
    },
